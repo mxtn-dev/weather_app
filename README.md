@@ -26,5 +26,5 @@ gcc --version
 Используем 23 стандарт:
 
 ```
-CFLAGS = -Wall -Wextra -Wpedantic -std=c11 -O2
+CFLAGS = -Wall -Wextra -Wpedantic -std=c23 -O2
 ```
